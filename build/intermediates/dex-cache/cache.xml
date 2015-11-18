@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Joe/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Joe/Desktop/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-a296d03cf12c86562d55c0da85d81ae9da8574d3.jar" />
+    </item>
+    <item
+        jar="/Users/Joe/Desktop/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/Joe/Desktop/XYZReader/build/intermediates/pre-dexed/debug/volley-e99aff146235bc66ad52d0eb721bcd5dc4296538.jar" />
+    </item>
+    <item
+        jar="/Users/Joe/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Joe/Desktop/XYZReader/build/intermediates/pre-dexed/debug/classes-a08e14747f4f7f76c07f68a055021a4b732c45e3.jar" />
+    </item>
+    <item
+        jar="/Users/Joe/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/Joe/Desktop/XYZReader/build/intermediates/pre-dexed/debug/classes-6463b46361e3a248c9ecb3ef8b39e21339c7d5a6.jar" />
+    </item>
+    <item
+        jar="/Users/Joe/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Joe/Desktop/XYZReader/build/intermediates/pre-dexed/debug/classes-dc7d7630ade63cbe75f9465c4dfc6216f4c53535.jar" />
+    </item>
+    <item
+        jar="/Users/Joe/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/Joe/Desktop/XYZReader/build/intermediates/pre-dexed/debug/classes-716601bea8dd1336ca6918e6c80b07e2d15a1a4c.jar" />
+    </item>
+    <item
+        jar="/Users/Joe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.1.0/d51280dbb4e8539f6c3f369d516edc26f9d89d31/okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="/Users/Joe/Desktop/XYZReader/build/intermediates/pre-dexed/debug/okhttp-1.1.0-b1514ae114a17c653c8f840c0274edc2406bf2db.jar" />
+    </item>
+    <item
+        jar="/Users/Joe/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/Joe/Desktop/XYZReader/build/intermediates/pre-dexed/debug/classes-d9503dda6f41c641074c6c906004c19da686b63b.jar" />
+    </item>
+    <item
+        jar="/Users/Joe/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/Joe/Desktop/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e3dc9ed684d6573f44454d9686769586a9064503.jar" />
+    </item>
+    <item
+        jar="/Users/Joe/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/Joe/Desktop/XYZReader/build/intermediates/pre-dexed/debug/classes-1cead04fc776e5874a75c5c302f04cddf971da8d.jar" />
+    </item>
+    <item
+        jar="/Users/Joe/Desktop/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Joe/Desktop/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-315ae684b647097c41a67fbc5bc156af155c002b.jar" />
+    </item>
+
+</items>
