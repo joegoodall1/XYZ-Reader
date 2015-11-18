@@ -15,14 +15,21 @@
      limitations under the License.
 -->
 
+
 <resources>
 
+
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
+        <item name="colorPrimary">#FF5722</item>
+        <item name="colorPrimaryDark">#E64A19</item>
+        <item name="colorAccent">#FF4081</item>
     </style>
 
-    <style name="Theme.Bacon.Detail">
+
+    <!--<style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
-    </style>
+    </style>-->
+
 
 </resources>
+
