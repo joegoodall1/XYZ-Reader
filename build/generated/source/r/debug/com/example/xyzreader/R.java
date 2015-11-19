@@ -2910,15 +2910,16 @@ containing a value of this type.
         public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f09013d;
         public static final int Widget_AppCompat_Toolbar=0x7f09013e;
         public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f09013f;
-        public static final int Widget_Design_AppBarLayout=0x7f090140;
-        public static final int Widget_Design_CollapsingToolbar=0x7f090141;
-        public static final int Widget_Design_CoordinatorLayout=0x7f090142;
-        public static final int Widget_Design_FloatingActionButton=0x7f090143;
-        public static final int Widget_Design_NavigationView=0x7f090144;
-        public static final int Widget_Design_ScrimInsetsFrameLayout=0x7f090145;
-        public static final int Widget_Design_Snackbar=0x7f090146;
+        public static final int Widget_CardContent=0x7f090140;
+        public static final int Widget_Design_AppBarLayout=0x7f090141;
+        public static final int Widget_Design_CollapsingToolbar=0x7f090142;
+        public static final int Widget_Design_CoordinatorLayout=0x7f090143;
+        public static final int Widget_Design_FloatingActionButton=0x7f090144;
+        public static final int Widget_Design_NavigationView=0x7f090145;
+        public static final int Widget_Design_ScrimInsetsFrameLayout=0x7f090146;
+        public static final int Widget_Design_Snackbar=0x7f090147;
         public static final int Widget_Design_TabLayout=0x7f090001;
-        public static final int Widget_Design_TextInputLayout=0x7f090147;
+        public static final int Widget_Design_TextInputLayout=0x7f090148;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.

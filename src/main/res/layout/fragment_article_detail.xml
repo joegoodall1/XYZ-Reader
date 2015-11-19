@@ -1,8 +1,7 @@
 <com.example.xyzreader.ui.DrawInsetsFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/draw_insets_frame_layout"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+                                                android:id="@+id/draw_insets_frame_layout"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="match_parent">
 
     <com.example.xyzreader.ui.ObservableScrollView
         android:id="@+id/scrollview"
@@ -16,19 +15,20 @@
             <FrameLayout
                 android:id="@+id/photo_container"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="339dp"
                 android:background="@color/photo_placeholder">
                 <!--suppress AndroidLintContentDescription -->
                 <ImageView
                     android:id="@+id/photo"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                     />
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:adjustViewBounds="true"
+                    android:layout_gravity="center_horizontal|bottom"/>
 
-                <View
+                <!--<View
                     android:layout_width="match_parent"
                     android:layout_height="112dp"
-                    android:background="@drawable/photo_background_protection" />
+                    android:background="@drawable/photo_background_protection" />-->
 
             </FrameLayout>
 
@@ -53,7 +53,8 @@
                     android:paddingRight="@dimen/detail_inner_horiz_margin"
                     android:paddingTop="@dimen/detail_metabar_vert_padding"
                     android:paddingBottom="@dimen/detail_metabar_vert_padding"
-                    android:layout_marginBottom="@dimen/detail_metabar_vert_padding">
+                    android:layout_marginBottom="@dimen/detail_metabar_vert_padding"
+                    android:weightSum="1">
 
                     <TextView
                         android:id="@+id/article_title"
@@ -65,7 +66,8 @@
                         android:textColor="#fff"
                         android:textStyle="bold"
                         android:textSize="@dimen/detail_title_text_size"
-                        android:lineSpacingMultiplier="0.9" />
+                        android:lineSpacingMultiplier="0.9"
+                        android:layout_weight="1.02"/>
 
                     <TextView
                         android:id="@+id/article_byline"
